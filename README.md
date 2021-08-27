@@ -1,6 +1,6 @@
-git init
-git remote add origin "url"
-git add .
-git commit -m "comment"
-git push
-git pull
+git init__
+git remote add origin "url"__
+git add .__
+git commit -m "comment"__
+git push__
+git pull__
